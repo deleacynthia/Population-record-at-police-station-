@@ -1,0 +1,36 @@
+C:\Users\cynthia\Desktop\PolitieBD\bin\Debug\PolitieBD.exe.config
+C:\Users\cynthia\Desktop\PolitieBD\bin\Debug\PolitieBD.exe
+C:\Users\cynthia\Desktop\PolitieBD\bin\Debug\PolitieBD.pdb
+C:\Users\cynthia\Desktop\PolitieBD\obj\Debug\PolitieBD.csproj.AssemblyReference.cache
+C:\Users\cynthia\Desktop\PolitieBD\obj\Debug\PolitieBD.csproj.SuggestedBindingRedirects.cache
+C:\Users\cynthia\Desktop\PolitieBD\obj\Debug\PolitieBD.Form1.resources
+C:\Users\cynthia\Desktop\PolitieBD\obj\Debug\PolitieBD.Main.resources
+C:\Users\cynthia\Desktop\PolitieBD\obj\Debug\PolitieBD.Properties.Resources.resources
+C:\Users\cynthia\Desktop\PolitieBD\obj\Debug\PolitieBD.csproj.GenerateResource.cache
+C:\Users\cynthia\Desktop\PolitieBD\obj\Debug\PolitieBD.csproj.CoreCompileInputs.cache
+C:\Users\cynthia\Desktop\PolitieBD\obj\Debug\PolitieBD.exe
+C:\Users\cynthia\Desktop\PolitieBD\obj\Debug\PolitieBD.pdb
+C:\Users\cynthia\Desktop\proiect bd\PolitieBD\bin\Debug\PolitieBD.exe.config
+C:\Users\cynthia\Desktop\proiect bd\PolitieBD\bin\Debug\PolitieBD.exe
+C:\Users\cynthia\Desktop\proiect bd\PolitieBD\bin\Debug\PolitieBD.pdb
+C:\Users\cynthia\Desktop\proiect bd\PolitieBD\obj\Debug\PolitieBD.csproj.AssemblyReference.cache
+C:\Users\cynthia\Desktop\proiect bd\PolitieBD\obj\Debug\PolitieBD.csproj.SuggestedBindingRedirects.cache
+C:\Users\cynthia\Desktop\proiect bd\PolitieBD\obj\Debug\PolitieBD.Form1.resources
+C:\Users\cynthia\Desktop\proiect bd\PolitieBD\obj\Debug\PolitieBD.Form2.resources
+C:\Users\cynthia\Desktop\proiect bd\PolitieBD\obj\Debug\PolitieBD.Main.resources
+C:\Users\cynthia\Desktop\proiect bd\PolitieBD\obj\Debug\PolitieBD.Properties.Resources.resources
+C:\Users\cynthia\Desktop\proiect bd\PolitieBD\obj\Debug\PolitieBD.csproj.GenerateResource.cache
+C:\Users\cynthia\Desktop\proiect bd\PolitieBD\obj\Debug\PolitieBD.csproj.CoreCompileInputs.cache
+C:\Users\cynthia\Desktop\proiect bd\PolitieBD\obj\Debug\PolitieBD.exe
+C:\Users\cynthia\Desktop\proiect bd\PolitieBD\obj\Debug\PolitieBD.pdb
+C:\Users\cynthia\Desktop\proiect bd\PolitieBD\obj\Debug\PolitieBD.InsertPersoane.resources
+C:\Users\cynthia\Desktop\proiect bd\PolitieBD\obj\Debug\PolitieBD.InsertAngajati.resources
+C:\Users\cynthia\Desktop\proiect bd\PolitieBD\obj\Debug\PolitieBD.InsertDepartamente.resources
+C:\Users\cynthia\Desktop\proiect bd\PolitieBD\obj\Debug\PolitieBD.UpdatePersoane.resources
+C:\Users\cynthia\Desktop\proiect bd\PolitieBD\obj\Debug\PolitieBD.UpdateAngajati.resources
+C:\Users\cynthia\Desktop\proiect bd\PolitieBD\obj\Debug\PolitieBD.UpdateDepartamente.resources
+C:\Users\cynthia\Desktop\proiect bd\PolitieBD\obj\Debug\PolitieBD.DeletePersoane.resources
+C:\Users\cynthia\Desktop\proiect bd\PolitieBD\obj\Debug\PolitieBD.DeleteAngajati.resources
+C:\Users\cynthia\Desktop\proiect bd\PolitieBD\obj\Debug\PolitieBD.DeleteDepartamente.resources
+C:\Users\cynthia\Desktop\proiect bd\PolitieBD\obj\Debug\PolitieBD.InterogariComplexe.resources
+C:\Users\cynthia\Desktop\proiect bd\PolitieBD\obj\Debug\PolitieBD.InterogariSimple.resources
